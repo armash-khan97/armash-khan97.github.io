@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+input{
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 40px;
+    box-sizing: border-box;
+    
+  
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+    padding: 40px;
+}
